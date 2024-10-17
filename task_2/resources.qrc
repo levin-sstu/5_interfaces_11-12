@@ -1,0 +1,6 @@
+﻿<RCC>
+    <qresource prefix="/resources">
+        <file>img/background_3.jpg</file>
+        <file>img/mario.png</file>
+    </qresource>
+</RCC>
